@@ -1,1 +1,2 @@
-# SummerCodingExcersises
+# SummerCodingExcercises
+
